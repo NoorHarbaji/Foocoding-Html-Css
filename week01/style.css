@@ -8,12 +8,12 @@
 		header {
 		   display: block;
 		   width: initial;                             
-		   padding: 20px;
+		   padding: padding: 7px 20px 5px 5px;
 	       margin:15px 40px 20px 40px;
 		   color: var(--font-color);
 	       /*color: wheat; */
 		   background-image: url(beach-15712_1920.jpg);
-		   background-position: right;
+		   background-position: 50% 40%;
 		}
 		
 		a {
