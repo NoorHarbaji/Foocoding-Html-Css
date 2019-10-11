@@ -125,51 +125,51 @@ html{
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
-    main {
-       width: 750px;
-   }
-   img{
-       width:150px;
-   }
-   h3{
-       font-size: 15px;
-   }
-    #grid-floats li:nth-child(1) {
-     width: 318px;
-     height: 320px;
-     margin: 0.5rem 0.5rem;
-    }
+ main {
+    width: 750px;
+ }
+ img{
+     width:150px;
+ }
+ h3{
+     font-size: 15px;
+ }
+ #grid-floats li:nth-child(1) {
+      width: 318px;
+      height: 320px;
+      margin: 0.5rem 0.5rem;
+ }
    
-    #grid-floats li:nth-child(2) {
-       width: 319px;
-       height: 320px;
-       margin: 0.5rem 0.5rem;
-   }  
+ #grid-floats li:nth-child(2) {
+      width: 319px;
+      height: 320px;
+      margin: 0.5rem 0.5rem;
+  }  
    
-   #grid-flex .grid-item {
-       width: 201px;
-       margin: 0.5rem 0.5rem;
-   }
+  #grid-flex .grid-item {
+      width: 201px;
+      margin: 0.5rem 0.5rem;
+  }
    
-   #grid-floats .grid-item {
-       width: 202px;
-       margin: 0.5rem 0.5rem;
-       padding: 0.5rem 0.5rem;
-    }
+  #grid-floats .grid-item {
+      width: 202px;
+      margin: 0.5rem 0.5rem;
+      padding: 0.5rem 0.5rem;
+  }
 }   
 
 /*@media (min-width: 320px) and (max-width: 480px) { */
-@media only screen and (max-device-width: 480px){
-    main {
+  @media only screen and (max-device-width: 480px){
+   main {
         width: 450px;
-    }
+   }
 
-    img{
+   img {
         width: 130px;
-    }
-    h3 {
+   }
+   h3 {
         font-size: 0.8rem;
-    }
+   }
     h2 {
         font-size: 1.5rem;
     }
