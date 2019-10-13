@@ -5,6 +5,9 @@ body{
 
 main{
     width: 1200px;
+    padding: 0 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 header{
@@ -36,12 +39,6 @@ h1{
         margin-left: 0%;
         width: 100%;
     }
-}
-
-main{
-    padding: 0 15px;
-    margin-right: auto;
-    margin-left: auto;
 }
 
 h2 {
@@ -216,7 +213,7 @@ html{
 /*@media (min-width: 320px) and (max-width: 480px) { */
 @media only screen and (max-device-width: 480px){
     main {
-        width: 450px;
+        width: 470px;
     }
 
     img{
@@ -259,7 +256,7 @@ html{
 
     
     #grid-floats .grid-item {
-        width: 210px;
+        width: 200px;
         height: 200px;
         margin: 2px 3px;
         padding: 2px;
